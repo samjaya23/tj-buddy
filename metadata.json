@@ -1,0 +1,7 @@
+{
+  "name": "TJ Buddy",
+  "description": "Guided-navigation assistant for first-time users of Jakarta integrated public transportation (TransJakarta, KRL, MRT, LRT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
